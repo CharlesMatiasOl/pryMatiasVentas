@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\bin\Debug\pryMatiasSpVentasK.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\bin\Debug\pryMatiasSpVentasK.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\bin\Debug\pryMatiasSpVentasK.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.frmBusqueda.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.frmCliente.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.frmConsulta.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.frmPrincipal.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.frmVendedor.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.frmVentas.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\pryMatiasSpVentasK\pryMatiasSpVentasK\obj\Debug\pryMatiasSpVentasK.pdb
